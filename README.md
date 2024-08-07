@@ -1,4 +1,4 @@
-# Tal Figenblat
+# Yali Leshem
 
 Researcher | Student | Software Developer
 AI | Machine Learning | Development
