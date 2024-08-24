@@ -19,7 +19,7 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 ## 🛠 Skills and Abilities
 
 - Programming Languages: C/C++, Python, Java, with basic experience in C#.
-- Machine Learning: Foundational concepts and techniques with hands-on experience in TensorFlow, Scikit-Learn, and PyTorch.
+- Machine Learning: Foundational concepts and techniques with hands-on experience in TensorFlow, Numpy and PyTorch.
 
 ## 🚀 Projects
 
@@ -27,7 +27,7 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 |-------|-------------|-------|----------|
 | Assembler | Assembler written in C which translats a fabricated Assembly language | ★★★ | C |
 | Maze Solver | A maze solver which uses three different algorithms to find the fastest way out | ★★ | Python |
-| Sign Language | A project that uses CNN architecture and DL methods to identify a sentence | ★★ | Java |
+| Sign Language | A project that uses CNN architecture and DL methods to identify words | ★★ | Java |
 | d-ary Heap | An implemention of a d-ary Heap including useful functions and inqueries | ★ | C++ |
 | PyTorch | Implementions of several popular functions in PyTorch class | ★★ | Python |
 | Diabetes Check | Trainings of neural networks in order to detect diabetes | ★★ | Python |
