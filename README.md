@@ -29,7 +29,7 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 | Maze Solver | A maze solver which uses three different algorithms to find the fastest way out | ★★ | Python |
 | Sign Language | A project that uses CNN architecture and DL methods to identify words | ★★ | Python |
 | d-ary Heap | An implemention of a d-ary Heap including useful functions and inqueries | ★ | C++ |
-| PyTorch | Implementions of several popular functions in PyTorch class | ★ | Python |
+| PyTorch | Implementions of multiple popular functions included in PyTorch class | ★ | Python |
 | Diabetes Check | Trainings of neural networks in order to detect diabetes | ★★ | Python |
 | Event | Seek for attackers on the network while gathering significant info | ★★★ | Python |
   
