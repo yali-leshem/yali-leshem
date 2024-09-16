@@ -18,7 +18,7 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 
 ## 🛠 Skills and Abilities
 
-- Programming Languages: C/C++, Python, Java, with basic experience in C#.
+- Programming Languages: Python, C/C++, Java, with basic experience in C#.
 - Machine Learning: Foundational concepts and techniques with hands-on experience in TensorFlow, Numpy and PyTorch.
 
 ## 🚀 Projects
