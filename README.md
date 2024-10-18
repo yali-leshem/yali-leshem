@@ -32,5 +32,5 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, current
 | PyTorch | Implementions of multiple popular functions included in PyTorch class | ★ | Python |
 | Diabetes Check | Trainings of neural networks in order to detect diabetes | ★★ | Python |
 | Event | Seek for attackers on the network while gathering significant info | ★★★ | Python |
-  
+| Secure Server | Server for secured file transports using crypto keys and defensive programing | ★★★ | C++ and Python |
   
