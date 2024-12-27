@@ -1,6 +1,6 @@
 # Yali Leshem
 
-Researcher | Student | Software Developer
+Student | Software Developer
 AI | Machine Learning | Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yali-l-b51612253/)
