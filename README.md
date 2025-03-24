@@ -24,6 +24,7 @@ I'm a 17-year-old enthusiast with a passion for AI and machine learning, always 
 
 | Title | Description | Stars | Language |
 |-------|-------------|-------|----------|
+| Heatmap | A model that extracts data from YouTube videos and predict heatmap values | ★★★ | Python |
 | Assembler | Assembler written in C which translats a fabricated Assembly language | ★★★ | C |
 | Maze Solver | A maze solver which uses three different algorithms to find the fastest way out | ★★ | Python |
 | Sign Language | A project that uses CNN architecture and DL methods to identify words | ★★ | Python |
